@@ -10,7 +10,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 The data is from my Excel course, which provides a foundation for analysing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
 
 ### Dashboard File
-My final dashboard is [Project 1 - Dashboard](Data Science Jobs Salary dashboard 2023.xlsx)
+My final dashboard is [Project 1 - Dashboard](https://github.com/alwin-16/Excel_Data_Analytics_Project/tree/main/Project%201%20-%20Dashboard#:~:text=..-,Data%20Science%20Jobs%20Salary%20dashboard%202023.xlsx,-Add%20all%20excel)
 
 ### Excel Skills Used
 
